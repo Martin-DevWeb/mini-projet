@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Agbalumo";
+  src: url(./fonts/Agbalumo-Regular.ttf);
+}
+
+.container {
+  font-family: "Agbalumo", sans-serif;
+}
+
+img {
+  width: 8rem;
+}
+
+.card {
+  max-width: 17rem;
+  min-width: 15rem;
+}
+
+#pagination {
+  top: 95%;
+}
